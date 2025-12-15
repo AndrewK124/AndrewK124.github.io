@@ -2,14 +2,13 @@
 
 #### Technical Skills: SQL, Excel, Python, BI Tools (Tableau, Power BI)
 
-
 ## Education
-Bachelor of Science in Computer Science -- University of Central Arkansas
+B.S., Computer Science | University of Central Arkansas (December 2024)
 
 ## Projects
-### Project #1
+### LAPD Crime Analysis (SQL, Excel, Tableau)
 
-### Project #2
+### 2020-2025 COVID-19 Analysis (SQL, Excel, Tableau)
 
 ### Project #3
 
