@@ -12,7 +12,7 @@ Collaborated with 4 peers to develop a real-time, competitive shooter inspired b
 
 ### Linux-based ETL Pipeline (Linux)
 
-Developed an automated ETL pipeline using Bash scripting to process and standardize transaction data from a remote server, reducing the time to process this information by 70%. Extracted a compressed source file via scp, decompressed it with bunzip2, and performed data transformations using various Linux utilies including header removal and text normalization, data validation and filtering, and currency symbol cleanup and numeric field handling. Generated three reports using awk: 1) Transaction Summary: Aggregated purchases by state, age group, and gender. 2) Transaction Count Report: State-wise breakdown of transaction frequencies. 3) Purchase Total Report: Total amount of purchases grouped by state and gender.
+Developed an automated ETL pipeline using Bash scripting to process and standardize transaction data from a remote server, reducing the time to process this information by 70%. Extracted a compressed source file via scp, decompressed it with bunzip2, and performed data transformations using various Linux utilities including header removal and text normalization, data validation and filtering, and currency symbol cleanup and numeric field handling. Generated three reports using awk: 1) Transaction Summary: Aggregated purchases by state, age group, and gender. 2) Transaction Count Report: State-wise breakdown of transaction frequencies. 3) Purchase Total Report: Total amount of purchases grouped by state and gender.
 
 ### 2020-2025 COVID-19 Analysis (SQL, Excel, Tableau)
 
