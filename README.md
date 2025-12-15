@@ -11,7 +11,7 @@ B.S., Computer Science | University of Central Arkansas (December 2024)
 
 Collaborated with a team of four to develop a real-time competitive multiplayer shooter inspired by Bomberman and Wii Play's "Tanks!" minigame. The game features a fully implemented lobby system, real-time multiplayer gameplay over a local network, player statistics tracking, and a map editor. 
 
-Designed and implemented the server-side logic using Java and MySQL database, enabling reliable connection between clients and persistent storage of player data. The system tracks and stores game-session statistics per player, including wins, deaths, and performance metrics, allowing for long-term analysis across a diverse player base. 
+Designed and implemented the server-side logic using Java and MySQL database, enabling reliable connection between clients and persistent storage of player data. The system tracks and stores game-session statistics per player, including wins, deaths, and performance metrics, allowing for analysis across a diverse player base and long-term player attention retention due to consistent progress signals from their profile's ever increasing statistics.
 
 ### Linux-based ETL Pipeline (Linux Utilities - Bash, Awk, Ubuntu)
 [Code](https://github.com/AndrewK124/linux-etl-pipeline)
