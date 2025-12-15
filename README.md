@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Excel, Python, BI Tools (Tableau, Power BI)
+#### Technical Skills: SQL, Excel, Python, BI Tools (Tableau, Power BI), Java
 
 ## Education
 B.S., Computer Science | University of Central Arkansas (December 2024)
@@ -9,9 +9,9 @@ B.S., Computer Science | University of Central Arkansas (December 2024)
 ### Competitive Multiplayer Game (MySQL, Java)
 [Code](https://github.com/MasonR4/ROCKETMAN)
 
-Collaborated with a team of four to develop a real-time competitive multiplayer shooter inspired by Bomberman and Wii Play's "Tanks!" minigame. The game features a fully implemented lobby system, real-time multiplayer gameplay over a local network, player statistics tracking, and a map editor. 
+Collaborated with a team of four to develop a real-time competitive multiplayer shooter inspired by Bomberman and Wii Play's "Tanks!" minigame. Features a fully implemented lobby system, LAN-based multiplayer, a map editor, and a login/profile system to track individual player statistics. 
 
-Designed and implemented the server-side logic using Java and MySQL database, enabling reliable connection between clients and persistent storage of player data. The system tracks and stores game-session statistics per player, including wins, deaths, and performance metrics, allowing for analysis across a diverse player base and long-term player attention retention due to consistent progress signals from their profile's ever increasing statistics.
+Designed and implemented the server-side logic and MySQL database, enabling a reliable connection between clients and persistent storage of player data. The system tracks and stores game-session statistics per player, including wins, deaths, and performance metrics, allowing for analysis across a diverse player base and long-term player attention retention due to consistent progress signals from their profile's ever increasing statistics.
 
 ### Linux-based ETL Pipeline (Linux Utilities - Bash, Awk, Ubuntu)
 [Code](https://github.com/AndrewK124/linux-etl-pipeline)
