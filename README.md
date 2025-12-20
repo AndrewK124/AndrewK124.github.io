@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Excel, Python, BI Tools (Tableau, Power BI), Java
 
 ## Education
-B.S., Computer Science | University of Central Arkansas (December 2024)
+B.S., Computer Science | University of Central Arkansas
 
 ## Projects
 ### Competitive Multiplayer Game (MySQL, Java) [(Code)](https://github.com/MasonR4/ROCKETMAN)
