@@ -1,18 +1,18 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Excel, Python, BI Tools (Tableau, Power BI), Java
+#### Technical Skills: SQL, Microsoft Excel, Python, BI Tools (Tableau, Power BI), Java
 
 ## Education
 B.S., Computer Science | University of Central Arkansas
 
 ## Projects
-### Competitive Multiplayer Game (MySQL, Java) [(Code)](https://github.com/MasonR4/ROCKETMAN)
+### Competitive Multiplayer Game (MySQL, Java) [(Source)](https://github.com/MasonR4/ROCKETMAN)
 
 Collaborated with a team of four to develop a real-time competitive multiplayer shooter inspired by Bomberman and Wii Play's "Tanks!" minigame. Features a fully implemented lobby system, LAN-based multiplayer, a map editor, and a login/profile system to track individual player statistics. 
 
 Designed and implemented the server-side logic and MySQL database, enabling a reliable connection between clients and persistent storage of player data. The system tracks and stores game-session statistics per player, including wins, deaths, and performance metrics, allowing for analysis across a diverse player base and long-term player attention retention due to consistent progress signals from their profile's ever increasing statistics.
 
-### Linux-based ETL Pipeline (Linux Utilities - Bash, Awk, Ubuntu) [(Code)](https://github.com/AndrewK124/linux-etl-pipeline)
+### Linux-based ETL Pipeline (Linux Utilities - Bash, Awk, Ubuntu) [(Source)](https://github.com/AndrewK124/linux-etl-pipeline)
 
 Developed an automated ETL pipeline using Bash scripting to extract, transform, and analyze transaction data from a remote Linux server. The pipeline retrieves compressed data files via scp, decompresses them using bunzip2, and applies a series of transformations with standard Linux utilities, reducing end-to-end processing time by approximately 70%. 
 
@@ -23,8 +23,17 @@ The pipeline generated three analytical reports using awk:
 2. Transaction Count: Provides a state-wise breakdown of transaction frequency.
 3. Purchase Total: Calculates total purchase amounts grouped by state and gender. 
 
-### 2020-2025 COVID-19 Analysis (SQL, Excel, Tableau) [(Code)](https://github.com/AndrewK124/COVID-visualization)
+### 2020-2025 COVID-19 Analysis (SQL, Microsoft Excel, Tableau) [(Source)](https://github.com/AndrewK124/COVID-visualization)
 
 Collected, cleaned, and analyzed global COVID-19 case and vaccination data spanning from 2020 to 2025 from Our World In Data. Designed complex SQL queries using Common Table Expressions (CTEs) to explore relationships between vaccination rates and mortality, evalute changes in reproduction rates before and after vaccine rollouts, and assess the effectiveness of public health policies across countries and continents. 
 
 The analysis was visualized through four dashboards created in Tableau, highlighting insights such as the association between vaccination coverage exceeding 50% of a country and the reduction in deaths per million, as well as identifying which continents deployed vaccination programs proactively relative to their peak infection dates. 
+
+### Retail Sales Analysis (Microsoft Excel) [(Source)](https://github.com/AndrewK124/retail-sales-analysis)
+
+Built an interactive Excel dashboard to reveal trends in spending patterns and to understand how customer demographics, specifically age and gender, influence purchasing behavior over time.
+
+Cleaned and transformed data using Excel formulas, formatting, and the removal of duplicate cells. Built an interactive dashboard using pivot tables, charts, and slicers. Identified key demographic spending patterns, seasonal trends, and gender-based differences in transaction volume and purchase value. 
+
+
+
